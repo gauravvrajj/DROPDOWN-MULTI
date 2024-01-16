@@ -1,0 +1,49 @@
+.main{
+  text-align: center;
+  color:blue;
+}
+input[type="text"] {
+  border: none;
+  outline: none;
+  width: 80%;
+  padding-block: 10px;
+  text-align: start;
+  margin-left: 10%;
+}
+.line{
+  background: #000dff;
+    height: 3px;
+    width: 80%;
+}
+img{
+  height:20px;
+  padding-right: 10px;
+}
+
+.social-option{
+  align-items: center;
+  display: flex;
+}
+.css-13cymwt-control {
+  border-width: 0;
+  width: 80%;
+  margin-left: 10%;
+  border-style:none !important;
+}
+.css-13cymwt-control:hover{
+  cursor: text;
+}
+.css-t3ipsp-control {
+  width:80%;
+  margin-left:10%;
+  border-style:none !important;
+  border-width: 0;
+  box-shadow: none !important;
+}
+.css-1p3m7a8-multiValue {
+  border-radius:12px !important;
+}
+
+.css-1nmdiq5-menu{
+  display: block !important;;
+}
